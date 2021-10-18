@@ -173,6 +173,9 @@ footer p a:nth-child(2) {
   .row .strong:nth-child(2) {
     margin-bottom: 1rem;
   }
+}
+
+@media (min-width: 1024px) {
   footer {
     position: absolute;
     bottom: 0;
