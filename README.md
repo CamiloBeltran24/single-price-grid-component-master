@@ -11,10 +11,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Tabler and Desktop](./img/mobile.png)
+![./img/mobile.png](./img/mobile.png)
 ![Mobile](./img/big.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]
+- Live Site URL: [https://camilobeltran24.github.io/single-price-grid-component-master/]
