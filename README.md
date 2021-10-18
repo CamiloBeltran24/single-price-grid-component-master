@@ -16,5 +16,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
+- Solution URL: [https://www.frontendmentor.io/solutions/singlepricegridcomponentmaster-build-with-html-and-css-2Y-QTWQwZ]
 - Live Site URL: [https://camilobeltran24.github.io/single-price-grid-component-master/]
